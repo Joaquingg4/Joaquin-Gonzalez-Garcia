@@ -16,7 +16,7 @@
 
 - 👨‍💻 Como analista de sistemas, estoy en constante aprendizaje y exploración de nuevas tecnologías para mejorar mis habilidades.
 - 💬 Contáctame para intercambiar información y proyectos.
-- 🌱 Me especializo en desarrollo de sistemas.
+- 🌱 Me especializo en el desarrollo de sistemas.
 
 ## 🛠 &nbsp;Tech Stack
 
